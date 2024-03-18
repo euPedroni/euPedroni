@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Pedro Victor
 
-- 🔭 Hoje trabalho como assistente administrativo
-- 📚 Estudando JAVA
+- 📚 Estudante de desenvolvimento de software
 - 😄 Pronomes: ele/dele
 - 👨‍💻 Pretendo trabalhar com back-end
 
